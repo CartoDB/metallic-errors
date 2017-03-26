@@ -36,8 +36,7 @@
     "pretest": "npm run lint",
     "preversion": "npm test",
     "test": "mocha --recursive -r babel-register -r source-map-support/register test/",
-    "test:watch": "npm run test -- -w",
-    "version": "git add -A CHANGELOG.md"
+    "test:watch": "npm run test -- -w"
   },
   "devDependencies": {
     "babel-cli": "^6.24.0",
