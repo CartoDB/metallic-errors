@@ -1,6 +1,11 @@
 # Metallic Errors ChangeLog
 
-## v0.1.1 (2017-04-06)
+## v0.1.3 (2017-04-08)
+
+ - Upgrade dev-dependencies: babel, standard
+
+
+## v0.1.2 (2017-04-06)
 
  - Allow minor upgrades
  - Upgrade dev-dependencies
