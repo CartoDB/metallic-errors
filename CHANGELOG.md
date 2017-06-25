@@ -1,6 +1,6 @@
 # Metallic Errors ChangeLog
 
-## v0.1.4 (2017-mm-dd)
+## v0.1.4 (2017-06-25)
 
  - Use nyc instead of instanbul for code coverage
 
