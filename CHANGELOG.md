@@ -1,5 +1,10 @@
 # Metallic Errors ChangeLog
 
+## v0.1.4 (2017-mm-dd)
+
+ - Use nyc instead of instanbul for code coverage
+
+
 ## v0.1.3 (2017-04-08)
 
  - Upgrade dev-dependencies: babel, standard
