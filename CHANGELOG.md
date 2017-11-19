@@ -1,6 +1,6 @@
 # Metallic Errors ChangeLog
 
-## v0.2.0 (2017-mm-dd)
+## v0.2.0 (2017-11-19)
 
  - Update deps:
    + babel-cli: 6.26.0
