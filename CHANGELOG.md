@@ -1,6 +1,6 @@
 # Metallic Errors ChangeLog
 
-## v0.3.0 (2018-mm-dd)
+## v0.3.0 (2018-02-23)
 
  - Add support for TravisCI
  - Fix issues with test, build and publish
