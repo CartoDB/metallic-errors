@@ -1,5 +1,20 @@
 # Metallic Errors ChangeLog
 
+## v0.3.0 (2018-mm-dd)
+
+ - Add support for TravisCI
+ - Fix issues with test, build and publish
+ - Ignore coverage folder while publishing
+ - Update deps:
+   + es6-error: 4.1.1
+ - Update devel deps:
+   + mocha: 5.0.1
+   + nyc: 11.4.1
+   + rimraf: 2.6.2
+   + sinon: 4.4.0
+   + standard: 11.0.0
+
+
 ## v0.2.0 (2017-11-19)
 
  - Update deps:
@@ -10,7 +25,7 @@
    + nyc: 11.3.0
    + sinon: 4.1.2
    + source-map-support: 0.5.0
-   + standard: 10.0.3"
+   + standard: 10.0.3
 
 
 ## v0.1.4 (2017-06-25)
